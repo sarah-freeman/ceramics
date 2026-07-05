@@ -28,9 +28,10 @@ twitter_username: jekyllrb
 github_username:  sarah-freeman
 
 # Build settings
-theme: minima
+theme: arnolds/pineapple
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
